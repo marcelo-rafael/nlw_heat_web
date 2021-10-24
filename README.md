@@ -35,7 +35,7 @@
 
 #### 🚀 About
 
-2º Dia: Front-End com React.js
+2nd Day: Front-End with React.js
 
 The entire interface of our system was developed, using React.js with TypeScript, Socket.io, Axios and Vite as project environment. It was amazing to develop this entire project, because I met Vite that is much faster than the famous create-react-app on Facebook.
 
