@@ -29,7 +29,7 @@
  🚀 Next Level Week: Heat 🚀
 </h2>
 
-<p align="center"><a href="#">Deploy on Vercel</a></p>
+<!-- <p align="center"><a href="#">Deploy on Vercel</a></p> -->
 
 ---
 
